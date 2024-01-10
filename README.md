@@ -13,12 +13,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![image](https://github.com/Mohak-Gogia/QR-code-component/assets/91110127/4e831c5e-1840-41c7-a2ee-d8a677e61afa)
-
+![image](https://github.com/Mohak-Gogia/Blog-preview-card/assets/91110127/a18fdfc4-438c-419d-814e-0f637241438d)
 
 ### Links
 
-- Live Site URL: [Live Demo](https://mohak-gogia.github.io/QR-code-component/)
+- Live Site URL: [Live Demo](https://mohak-gogia.github.io/Blog-preview-card/)
 
 
 ### Used
